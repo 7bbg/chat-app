@@ -1,1 +1,1 @@
-Folder contains EXE files
+Folder contains .EXE files
