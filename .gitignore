@@ -1,0 +1,19 @@
+# CMake and Make build files
+CMakeCache.txt
+CMakeFiles/
+Makefile
+CMakeLists.txt.user
+CMakeLists.txt.cmake
+CMakeLists.txt.user
+
+# Operating system-specific files
+.DS_Store      # macOS
+ehthumbs.db    # Windows
+Icon?          # macOS
+
+# Compiled object files and binaries
+*.o
+*.obj
+*.exe
+*.out
+*.app
